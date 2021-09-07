@@ -6,7 +6,7 @@ tags: second tag
 layout: layouts/post.njk
 ---
 
-<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1594406263/blog/IMG_1291.jpg" alt="" class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale/v1628865652/New-11ty-blog/Gulfstream-G600.jpg" alt="" class="cld-responsive">
 
 
 ![Africa](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto/ar_4:3,c_fill/c_scale,w_auto/dpr_auto/v1630074929/11ty/African_mosaic.jpg)
