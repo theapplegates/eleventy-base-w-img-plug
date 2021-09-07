@@ -8,6 +8,8 @@ const markdownItAnchor = require("markdown-it-anchor");
 const Image = require("@11ty/eleventy-img");
 const path = require('path');
 
+
+
 async function imageShortcode(src, alt) {
   let sizes = "(min-width: 1024px) 100vw, 50vw"
   let srcPrefix = `./img/`
